@@ -5,3 +5,4 @@ Demo of Jquery and HttpClientFactory
 Alex Wolfe - Pluralsight (It's a grey area)
 ![Test Imag 8](https://github.com/mosesnova/PrivateFlightGlobal/blob/master/rl.jpg)
 ![Test Imag 8](https://github.com/mosesnova/PrivateFlightGlobal/blob/master/gbstartup.jpg)
+![Test Imag 8](https://github.com/mosesnova/PrivateFlightGlobal/blob/master/tg1.jpg)
